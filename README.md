@@ -1,2 +1,1 @@
-[Click to View Site](https://8bitnikita.github.io/John-web-site/) 
-
+John Web Site application [Live Preview](https://nk8bnj.github.io/John-web-site/).
